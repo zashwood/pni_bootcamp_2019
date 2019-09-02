@@ -1,7 +1,7 @@
 Notes from the hands-on lab running slurm jobs on the spock cluster:
 
-Some prerequiesites:
-- PNI account so can ssh into scotty interactive server and spock cluster
+Some prerequisites:
+- PNI account so can ssh into scotty interactive server and Spock cluster
 - Know how to get around in the Terminal.app on Mac and Putty or other ssh terminal program on PC
   (For PC I recommend installing the official Github command-line client program which installs a bash shell for PC)
 - To find Terminal program on Mac, easiest way is to hit Command-Space and type "Terminal" then enter
@@ -41,7 +41,7 @@ screen -r
 
 There's a newer variant called tmux which has more advanced features.
 
----- Actual job running! 
+---- Actual job running!
 
 You do this on spock
 
@@ -49,7 +49,7 @@ ssh netid@spock.pni.princeton.edu
 
 Though you can submit jobs from scotty to spock as well.
 
-So there were two example scripts, provided here, ex.sh and ex_arr.sh for one-shot and array jobs, respectively. A one-shot job would be a job that you run once, so it won't run that much faster than it would on your own computer, but you don't have to keep your computer running and can even get email when it's done. 
+So there were two example scripts, provided here, ex.sh and ex_arr.sh for one-shot and array jobs, respectively. A one-shot job would be a job that you run once, so it won't run that much faster than it would on your own computer, but you don't have to keep your computer running and can even get email when it's done.
 
 --- the lines we added to get email when the job starts and ends
 
