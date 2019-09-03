@@ -1,6 +1,26 @@
-# pni_bootcamp_2019
-Lecture slides and tutorials for Princeton Neuroscience Institute's Graduate Student Math/Coding Bootcamp 2019
+# PNI Bootcamp 2019
+Lecture materials and exercises for the Princeton Neuroscience Institute's 2019 Graduate Student Bootcamp.
 
-#### Important notice: please make sure you have a PNI compute account set up before Thursday 8/29.  
+## Organization
+| Day | Instructor                    | Topic                             | Description                                                                               |
+|:---:|:-----------------------------:|:---------------------------------:|-------------------------------------------------------------------------------------------|
+| 1   | Sam Zorowitz                  | Intro to Python                   | An overview of the python programming language.                                           |
+| 2   | Sam Zorowitz                  | NumPy & Matplotlib                | Basic data manipulation and visualization.                                                |
+| 3   | Sam Zorowitz                  | Pandas, SciPy, & Seaborn          | DataFrames, statistics, and advanced plotting.                                            |
+| 4   | Yotam Sagiv                   | Writing Good Code                 | Lessons in good programming habits, including modularity, abstraction, and documentation. |
+| 5   | Mike Morais                   | Advanced Neuro Problems           | In-depth problem set about neural decoding.                                               |
+| 6   | Nivedita Rangarajan           | Molecular & Cellular Neuroscience | Review of core molecular and cellular concepts in neuroscience.                           |
+| 7   | Lili Cai                      | Genetics & Neuroscience Methods   | Overview of genetics & molecular tools in neuroscience research.                          |
+| 8   | Stephen Keely                 | Probability & Model Fitting       | Introduction to probability, likelihood functions, and model fitting.                     |
+| 9   | Zoe Ashwood & David Zoltowski | Hypothesis Testing & Bayes Rule   | Introduction to hypothesis testing, permutation testing, and Bayes rule.                  |
 
-Ben Singer from PNI IT will give us a hands-on tutorial on using PNI's cluster resources from 1-2pm.  In order for you to be able to make full use of this tutorial, and to be able to practise running a small job on the cluster yourself, it is important that you register to get a PNI account before then.  You should have received an email about getting an account (check for an email from root@pni.princeton.edu).  If you did not receive this email, please go to https://pni.princeton.edu/ and click on "PNI Intranet (Internal)" at the very bottom of the page.  Then, log into the site with your PUID.  Click on the tab at the top entitled "Online Forms" and fill out the one entitled "PNI NetID".  Alternatively, please contact pnihelp@princeton.edu, introduce yourself as a new PNI graduate student, and explain that you need to establish a PNI compute account.  If you have trouble getting set up with this, please let me know as soon as possible (zashwood@princeton.edu).  
+## Notes
+Students should register for PNI accounts prior to the bootcamp. This will facilitate tutorials on using the cluster. By the time of the bootcamp, students should have received an email about getting an account. If they did not receive, then they can follow the instructions below:
+
+1. Go to https://pni.princeton.edu/
+2. Click on "PNI Intranet (Internal)" at the very bottom of the page
+3. Log into the site with your PUID
+4. Click on the tab at the top entitled "Online Forms"
+5. Fill out the form entitled "PNI NetID"
+
+Alternatively, students can contact [pnihelp@princeton.edu](mailto:pnihelp@princeton.edu), introduce themselves as a new PNI graduate student, and explain that they need to establish a PNI compute account.  
